@@ -1,172 +1,172 @@
-# 🧴 Fragrance Log & Reviews
+# 🧴 Fragrance Log & Recensioni
 
-My personal collection and honest reviews of the fragrances I have tested. Each scent is grouped by the best season to wear it, along with its notes, real performance, and ratings for both men and women.
-
----
-
-## 📑 Seasons
-* [❄️ Winter / Cold Weather](#️-winter--cold-weather)
-* [🍂 Autumn / Mild Weather](#-autumn--mild-weather)
-* [🌸 Spring / Everyday Wear](#-spring--everyday-wear)
-* [☀️ Summer / Hot Weather](#️-summer--hot-weather)
+La mia collezione personale e recensioni oneste dei profumi che ho testato. Ogni fragranza è divisa in base alla stagione migliore in cui indossarla, con le sue note, le prestazioni reali e i voti sia per uomo che per donna.
 
 ---
 
-## ❄️ Winter / Cold Weather
+## 📑 Stagioni
+* [❄️ Inverno / Climi Freddi](#️-inverno--climi-freddi)
+* [🍂 Autunno / Mezza Stagione](#-autunno--mezza-stagione)
+* [🌸 Primavera / Uso Quotidiano](#-primavera--uso-quotidiano)
+* [☀️ Estate / Climi Caldi](#️-estate--climi-caldi)
+
+---
+
+## ❄️ Inverno / Climi Freddi
 
 ### 1. Althaïr — Parfums de Marly
 <img src="https://media.niche-beauty.com/images/generated/det/10/14/parfums-de-marly-althair.jpg" alt="Parfums de Marly Althair" width="220"/>
 
-> *"A smooth, creamy vanilla mixed with warm spices and woods—sweet, cozy, and very classy."*
+> *"Una vaniglia cremosa e morbida unita a spezie calde e legni: dolce, avvolgente e molto elegante."*
 
-* **Notes:**
-  * **Top:** Cinnamon, Cardamom, Orange Blossom, Bergamot
-  * **Heart:** Bourbon Vanilla, Elemi
-  * **Base:** Praline, Musk, Ambroxan, Guaiac Wood
-* **What people say:** Loved as one of the best sweet scents for men right now. People praise the rich vanilla quality, though many feel the price is quite high.
+* **Note:**
+  * **Testa:** Cannella, Cardamomo, Fiore d'Arancio, Bergamotto
+  * **Cuore:** Vaniglia Bourbon, Elemi
+  * **Fondo:** Pralina, Muschio, Ambroxan, Legno di Guaiaco
+* **Cosa dicono gli utenti:** Amato come uno dei migliori profumi dolci maschili del momento. Tutti elogiano l'ottima qualità della vaniglia, anche se molti trovano il prezzo piuttosto alto.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Winter / Autumn** | `3 - 4` | 9 - 11 hours | Strong | **4.6 / 5** | **4.2 / 5** |
+| **Inverno / Autunno** | `3 - 4` | 9 - 11 ore | Forte | **4.6 / 5** | **4.2 / 5** |
 
 ---
 
 ### 2. Oud for Greatness — Initio Parfums Privés
 <img src="https://jolieprofumerie.com/cdn/shop/files/initio-parfums-prives-oud-for-greatness-edp__67012.1719607022.jpg?v=1759246014&width=800" alt="Initio Oud for Greatness" width="220"/>
 
-> *"A bold, spicy wood scent balanced by sweet saffron and fresh lavender that feels powerful and confident."*
+> *"Un profumo legnoso intenso e speziato, bilanciato da zafferano dolce e lavanda fresca che trasmette sicurezza."*
 
-* **Notes:**
-  * **Top:** Saffron, Nutmeg, Lavender
-  * **Heart:** Agarwood (Oud)
-  * **Base:** Patchouli, Musk
-* **What people say:** Known for beast-mode performance. People love how strong and bold it is, though some say it smells a bit too similar to *Baccarat Rouge 540*.
+* **Note:**
+  * **Testa:** Zafferano, Noce Moscata, Lavanda
+  * **Cuore:** Legno di Agar (Oud)
+  * **Fondo:** Patchouli, Muschio
+* **Cosa dicono gli utenti:** Famoso per avere prestazioni mostruose. Piace molto per il suo carattere deciso, anche se qualcuno trova che ricordi un po' troppo *Baccarat Rouge 540*.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Winter** | `2 - 3` | 12+ hours | Very Strong | **4.4 / 5** | **3.7 / 5** |
+| **Inverno** | `2 - 3` | 12+ ore | Molto Forte | **4.4 / 5** | **3.7 / 5** |
 
 ---
 
 ### 3. The Most Wanted (Eau de Parfum Intense) — Azzaro
-<img src="https://www.azzaro.com/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-azzaro-master-catalog/default/dw4f01993e/images/pdp/3614273638852/3614273638852_1.jpg?sw=800&sh=800" alt="Azzaro The Most Wanted" width="220"/>
+<img src="https://static.thcdn.com/productimg/original/13191947-7224891439491663.jpg" alt="Azzaro The Most Wanted" width="220"/>
 
-> *"Sweet melted toffee and warm cardamom over dark amber woods—bold, addictive, and made for nights out."*
+> *"Caramello mou fuso e cardamomo caldo su un fondo di legni ambrati: deciso, seducente e perfetto per la sera."*
 
-* **Notes:**
-  * **Top:** Cardamom
-  * **Heart:** Toffee
-  * **Base:** Amberwood
-* **What people say:** Huge compliment getter for dates and cold nights. People love how sweet, seductive, and long-lasting it is for a designer fragrance.
+* **Note:**
+  * **Testa:** Cardamomo
+  * **Cuore:** Caramello Toffee
+  * **Fondo:** Amberwood
+* **Cosa dicono gli utenti:** Una garanzia per ricevere complimenti negli appuntamenti e nelle serate fredde. Apprezzatissimo perché è dolce, avvolgente e dura tantissimo per essere un profumo commerciale.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Winter / Autumn** | `3 - 4` | 8 - 10 hours | Strong | **4.6 / 5** | **3.8 / 5** |
+| **Inverno / Autunno** | `3 - 4` | 8 - 10 ore | Forte | **4.6 / 5** | **3.8 / 5** |
 
 ---
 
-## 🍂 Autumn / Mild Weather
+## 🍂 Autunno / Mezza Stagione
 
 ### 4. Ombré Leather (Eau de Parfum) — Tom Ford
 <img src="https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/14265335-1775139509361606.jpg&format=webp&width=1500&height=1500&fit=cover" alt="Tom Ford Ombre Leather" width="220"/>
 
-> *"Soft black leather with a touch of white flowers and spice, making it smooth and easy to wear."*
+> *"Pelle nera morbida con un tocco di fiori bianchi e spezie, che la rende liscia e facile da indossare."*
 
-* **Notes:**
-  * **Top:** Cardamom
-  * **Heart:** Leather, Jasmine Sambac
-  * **Base:** Amber, Moss, Patchouli
-* **What people say:** One of the best leather fragrances you can buy. People love how realistic and wearable it is without being too harsh.
+* **Note:**
+  * **Testa:** Cardamomo
+  * **Cuore:** Cuoio, Gelsomino Sambac
+  * **Fondo:** Ambra, Muschio Vegetale, Patchouli
+* **Cosa dicono gli utenti:** Uno dei migliori profumi al cuoio sul mercato. Piace perché è molto realistico e portabile senza risultare troppo aggressivo.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Autumn / Winter** | `3 - 4` | 9 - 10 hours | Moderate - Strong | **4.7 / 5** | **3.9 / 5** |
+| **Autunno / Inverno** | `3 - 4` | 9 - 10 ore | Moderata - Forte | **4.7 / 5** | **3.9 / 5** |
 
 ---
 
 ### 5. Baccarat Rouge 540 — Maison Francis Kurkdjian
 <img src="https://www.franciskurkdjian.com/on/demandware.static/-/Library-Sites-MaisonFrancisKurkdjianSharedLibrary/default/dw1863cd27/NOEL-26_KV-BR540-EXT_triptych_square_desktop_mobile_V3_1080x1080.jpg" alt="Maison Francis Kurkdjian Baccarat Rouge 540" width="220"/>
 
-> *"A light, airy mix of burnt sugar, saffron, and warm woods that leaves an unforgettable trail."*
+> *"Un mix leggero e arioso di zucchero caramellato, zafferano e legni caldi che lascia una scia indimenticabile."*
 
-* **Notes:**
-  * **Top:** Saffron, Jasmine
-  * **Heart:** Amberwood, Ambergris
-  * **Base:** Fir Resin, Cedar
-* **What people say:** A huge modern hit. Famous for getting compliments, though many people go nose-blind to it quickly and it has been copied a lot.
+* **Note:**
+  * **Testa:** Zafferano, Gelsomino
+  * **Cuore:** Amberwood, Ambra Grigia
+  * **Fondo:** Resina di Abete, Legno di Cedro
+* **Cosa dicono gli utenti:** Un enorme successo moderno. Famoso per attirare complimenti, anche se chi lo indossa spesso smette di sentirlo dopo poco per assuefazione ed è stato imitato ovunque.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Autumn / Spring** | `3 - 4` | 10+ hours | Strong | **4.1 / 5** | **4.8 / 5** |
+| **Autunno / Primavera** | `3 - 4` | 10+ ore | Forte | **4.1 / 5** | **4.8 / 5** |
 
 ---
 
 ### 6. Encre Noire — Lalique
 <img src="https://fr.lalique.com/cdn/shop/files/M13201-1-encre-noire-eau-de-toilette5_7fd3fb8a-db60-415f-9883-97a559cc1c2d.jpg?v=1785250406&width=1445" alt="Lalique Encre Noire" width="220"/>
 
-> *"A dark, earthy, woody scent that smells like a damp forest after rain and fresh black ink."*
+> *"Un profumo scuro, terroso e legnoso che ricorda un bosco umido dopo la pioggia e l'inchiostro nero."*
 
-* **Notes:**
-  * **Top:** Cypress
-  * **Heart:** Bourbon Vetiver, Haitian Vetiver
-  * **Base:** Cashmere Wood, Musk
-* **What people say:** A cult favorite because it smells way more expensive than it is. It is not made to be a crowd-pleaser, but fragrance fans love its dark, unique vibe.
+* **Note:**
+  * **Testa:** Cipresso
+  * **Cuore:** Vetiver di Bourbon, Vetiver di Haiti
+  * **Fondo:** Legno di Cashmere, Muschio
+* **Cosa dicono gli utenti:** Un vero cult perché odora molto più costoso di quello che costa. Non è pensato per piacere a tutti, ma gli appassionati adorano il suo stile cupo e unico.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Autumn** | `4 - 5` | 6 - 8 hours | Close - Moderate | **4.2 / 5** | **2.8 / 5** |
+| **Autunno** | `4 - 5` | 6 - 8 ore | Ravvicinata - Moderata | **4.2 / 5** | **2.8 / 5** |
 
 ---
 
-## 🌸 Spring / Everyday Wear
+## 🌸 Primavera / Uso Quotidiano
 
 ### 7. Aventus — Creed
 <img src="https://jolieprofumerie.com/cdn/shop/files/creed-aventus__38654.1717076873.jpg?v=1759224096&width=800" alt="Creed Aventus" width="220"/>
 
-> *"Fresh pineapple and bright citrus over a smoky wood base—the ultimate confident, everyday scent."*
+> *"Ananas fresco e agrumi frizzanti su una base di legno affumicato: il profumo quotidiano sicuro per eccellenza."*
 
-* **Notes:**
-  * **Top:** Bergamot, Black Currant, Apple, Lemon, Pink Pepper
-  * **Heart:** Pineapple, Patchouli, Moroccan Jasmine
-  * **Base:** Birch, Oakmoss, Musk, Ambroxan, Cedarwood
-* **What people say:** The most famous men's fragrance of the last 15 years. Everyone loves how versatile it is, though newer bottles do not last as long as older ones.
+* **Note:**
+  * **Testa:** Bergamotto, Ribes Nero, Mela, Limone, Pepe Rosa
+  * **Cuore:** Ananas, Patchouli, Gelsomino del Marocco
+  * **Fondo:** Betulla, Muschio di Quercia, Muschio, Ambroxan, Legno di Cedro
+* **Cosa dicono gli utenti:** Il profumo maschile più famoso degli ultimi 15 anni. Tutti amano quanto sia versatile, anche se le produzioni recenti durano meno rispetto a quelle vecchie.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Spring / Summer / All Year** | `4 - 5` | 7 - 8 hours | Moderate | **4.8 / 5** | **3.5 / 5** |
+| **Primavera / Estate / Tutto l'anno** | `4 - 5` | 7 - 8 ore | Moderata | **4.8 / 5** | **3.5 / 5** |
 
 ---
 
 ### 8. Mercy — Spirit of Kings
 <img src="https://www.joyconceptstore.com/48102-large_default/mercy-parfum-100ml.jpg" alt="Spirit of Kings Mercy" width="220"/>
 
-> *"A bright, clean mix of fresh citrus and light spices over a soft floral and warm vanilla base."*
+> *"Un mix luminoso e pulito di agrumi freschi e spezie leggere su una base morbida di fiori e vaniglia calda."*
 
-* **Notes:**
-  * **Top:** Grapefruit, Bergamot, Ginger, Nutmeg
-  * **Heart:** Geranium, Jasmine, Rose, Lily-of-the-Valley
-  * **Base:** Amber, Musk, Vanilla, Cedar
-* **What people say:** Praised for being super clean, smooth, and classy. Great for dressing up or wearing to the office.
+* **Note:**
+  * **Testa:** Pompelmo, Bergamotto, Zenzero, Noce Moscata
+  * **Cuore:** Geranio, Gelsomino, Rosa, Mughetto
+  * **Fondo:** Ambra, Muschio, Vaniglia, Legno di Cedro
+* **Cosa dicono gli utenti:** Elogiato per essere pulito, morbido ed elegante. Ottimo per vestirsi bene o da indossare in ufficio.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Spring / Autumn** | `3 - 4` | 8 - 9 hours | Moderate | **4.3 / 5** | **4.5 / 5** |
+| **Primavera / Autunno** | `3 - 4` | 8 - 9 ore | Moderata | **4.3 / 5** | **4.5 / 5** |
 
 ---
 
-## ☀️ Summer / Hot Weather
+## ☀️ Estate / Climi Caldi
 
 ### 9. Light Blue Pour Homme — Dolce & Gabbana
 <img src="https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw3d67d23d/images/zoom/VT01CPVT000_9V000_0.jpg?sw=740&sh=944" alt="Dolce & Gabbana Light Blue Pour Homme" width="220"/>
 
-> *"Fresh Mediterranean citrus with a clean, herbal, and slightly peppery kick made for hot days."*
+> *"Agrumi freschi del Mediterraneo con un tocco pulito, erbaceo e leggermente pepato pensato per le giornate calde."*
 
-* **Notes:**
-  * **Top:** Grapefruit, Bergamot, Sicilian Mandarin, Juniper
-  * **Heart:** Pepper, Rosemary, Brazilian Rosewood
-  * **Base:** Musk, Incense, Oakmoss
-* **What people say:** A classic summer go-to for hot weather and casual days. People love how fresh and clean it smells, even though it fades pretty fast.
+* **Note:**
+  * **Testa:** Pompelmo, Bergamotto, Mandarino di Sicilia, Ginepro
+  * **Cuore:** Pepe, Rosmarino, Legno di Rosa Brasiliano
+  * **Fondo:** Muschio, Incenso, Muschio di Quercia
+* **Cosa dicono gli utenti:** Un classico estivo perfetto per il caldo e i giorni casual. Piace perché è fresco e pulito, anche se svanisce abbastanza in fretta.
 
-| Season | Sprays | Longevity | Projection | Men's Rating | Women's Rating |
+| Stagione | Spruzzi | Longevità | Proiezione | Voto Uomo | Voto Donna |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Summer** | `6 - 8` | 4 - 5 hours | Close | **4.0 / 5** | **3.2 / 5** |
+| **Estate** | `6 - 8` | 4 - 5 ore | Ravvicinata | **4.0 / 5** | **3.2 / 5** |
