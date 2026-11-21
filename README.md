@@ -49,7 +49,7 @@ La mia collezione personale e recensioni oneste dei profumi che ho testato. Ogni
 ---
 
 ### 3. The Most Wanted (Eau de Parfum Intense) — Azzaro
-<img src="https://static.thcdn.com/productimg/original/13191947-7224891439491663.jpg" alt="Azzaro The Most Wanted" width="220"/>
+<img src="https://www.notino.it/cdn-cgi/image/width=800,height=800,quality=85,format=webp/https://cdn.notinoimg.com/detail_zoom/azzaro/azzmwa_10/azzaro-the-most-wanted-eau-de-parfum-intense-per-uomo___22030916.jpg" alt="Azzaro The Most Wanted" width="220"/>
 
 > *"Caramello mou fuso e cardamomo caldo su un fondo di legni ambrati: deciso, seducente e perfetto per la sera."*
 
